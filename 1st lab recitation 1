@@ -1,0 +1,20 @@
+print(6+2)
+print(30)
+print(6+10*6+10)
+x= 10
+print(x)
+first = "Cheng"
+last= "Lin"
+name = first + " " + last
+print(name)
+print(type(name))
+print("abc\ndefg")
+
+marks_obtained = 100
+total_marks =400
+percentage = (marks_obtained / total_marks) *100
+print(percentage,"%")
+ub= ("I am a UB Student")
+print(ub[2])
+print(ub[5])
+print(ub[-1])
